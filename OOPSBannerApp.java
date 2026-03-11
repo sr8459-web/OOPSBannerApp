@@ -5,7 +5,7 @@
  * * @author Sukanya
  * @version 1.0
  */
-class main()
+class OOPSBannerApp()
 {
     public static void main(String []args)
     {
