@@ -8,7 +8,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class OOPSBannerApp {
+public class OOPSBannerAppUC8 {
 
     public static void main(String[] args) {
 

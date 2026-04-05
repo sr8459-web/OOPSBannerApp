@@ -1,3 +1,7 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "HelloApp/HelloApp-feature-UC1/HelloApp-feature-UC1-print-OOPS",
+        ""
+    ]
 }
